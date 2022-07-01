@@ -2,7 +2,7 @@
 
 This repo tries to demo a few applications (under `apps/`) and it's path to
 deployment via Google Cloud Platform's `Cloud Build` + `Cloud Deploy`.
-Since a lot of setup is needed, I took inspiration from `willisc7` Golde Path
+Since a lot of setup is needed, I took inspiration from `willisc7` Golden Path
 repo (see below).
 
 I've tried to simplify the app and the `skaffold` part and concentrated on
