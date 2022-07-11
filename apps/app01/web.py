@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 #version_from_file = 'none'
 #print("[ricc] Starting the super-duper vanilla server in python to say HelloWorld!\n")
-
+#test change
 
 def index():
   with open("VERSION", "r") as f:
